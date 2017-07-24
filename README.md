@@ -217,7 +217,7 @@ Plugins / IOS - Android  additions
 ### Web
 
 - [Butterfly](https://github.com/yjbanov/butterfly) - Web framework for Dart based on Flutter's widget model
-- [Angel & Flutter](https://github.com/angel-example/flutter) - Simple todo app with Flutter and an Angel backend by [Tobe Osakwe](http://thosakwe.com)
+- [Building a Real-time Chat App with Angel and Flutter](https://dart.academy/building-a-real-time-chat-app-with-angel-and-flutter/r) - Simple todo app with Flutter and an Angel backend by [Tobe Osakwe](http://thosakwe.com); [Github Repo](https://github.com/angel-example/flutter)
 
 ## Videos 
 - [Flutter Talks](https://www.youtube.com/playlist?list=PLW08AvVvHDpHFQjXnjv4CKPyAdFLPMW4q&disable_polymer=true) - Extensive list of Flutter videos in a dedicated Youtube Channel by [Brandon Donnelson](https://twitter.com/branflake2267), Dart Developer Summit and others.
